@@ -24,8 +24,8 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 28 | W  | Clustering and Unsupervised Validation                                                                                                                       | Tarek (Kai Wycik)       | [Lecture 4](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Clustering%20validation.pdf)
 | Nov 2 | M  |  Deep learning basics | Ran   |  [Lecture 5](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Lecture5-2026.pdf)
 | Nov 4 | W  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 6](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Lecture6-2026.pdf)
-| Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7]()
-| Nov 11 | W |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/xai_tmz.pdf)
+| Nov 9 | M | Generative Modeling and Diffusions  | Tarek (Ian Thomas) | [Lecture 7](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/Generative%20Modeling%20and%20Diffusions.pdf)
+| Nov 11 | W |  Explainability, interpretability with Shapley values and LIME                  | Tarek  | [Lecture 8](https://github.com/stanleyn/BCB726_Fall2026/blob/main/Lecture_Notes/xai_2026.pdf)
 | Nov 16 | M | Predicting viral vs. human protein sequences            | Alex          | [Lecture 9 (notebook)](https://modal.com/notebooks/iskandr/_/nb-OtxSj5ugii1xGIP49PKzsa)
 | Nov 18 | W | LLMs in biology                                                                 | Alex          |
 
